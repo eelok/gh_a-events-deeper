@@ -11,6 +11,7 @@ on:
     branches:
       - main
       - staging 
+      - testBranch
 jobs:
   deploy:
     runs-on: ubuntu-latest
